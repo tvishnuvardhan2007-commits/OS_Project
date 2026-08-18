@@ -1,0 +1,12 @@
+Week 1: REPL Loop, getline(), Clean exit on Ctrl+D / exit
+Week 2: Argument Lexer & Tokenizer using strtok()
+Week 3: Process execution via fork(), execvp(), and waitpid()
+Week 4: Built-in command execution (cd, chdir())
+Week 5: File I/O Redirection using open() and dup2()
+Week 6: Inter-Process Communication using pipe()
+Week 7: Signal handling for SIGINT (Ctrl+C) via sigaction
+Week 8: Memory audit & leak debugging using Valgrind
+Week 9: Non-blocking background job control (&) and Zombie reaping
+Week 10: Environment variable resolution using getenv()
+Week 11: Persistent command logging to .shellforge_history
+Week 12: Project refactoring, .h/.c modularization & pushing Git tags
